@@ -1,2 +1,2 @@
 # Baskara
-Resolvendo problemas de Baskara.
+Resolvendo problemas de Baskara com facilidade.
